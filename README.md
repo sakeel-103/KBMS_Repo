@@ -1,2 +1,2 @@
-# KBMS_Repo
-Khatabook Management System
+# Khatbook_M_System
+ KhatBook Managemnet System
